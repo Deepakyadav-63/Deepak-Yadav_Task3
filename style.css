@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(241, 128, 21);
+}
+.head{
+    color: blue;
+}
+#bglime{
+    background-color: greenyellow;
+
+}
+.head span {
+    color: red;
+}
+#para{
+    color: green;
+}
+p{
+    color: white;
+}
+p span{
+    color: black;
+    font-size: 20px;
+}
+ul li{
+    color: white;
+}
+ol li:nth-of-type(2){
+    color:blue;
+}
+ol li:nth-of-type(3){
+    color:red;
+}
+ul li:last-child a{
+    background-color: blue;
+}
